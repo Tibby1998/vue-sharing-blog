@@ -1,0 +1,28 @@
+@import './variable.scss';
+
+@mixin avatar($size) {
+    width: $size;
+    height: $size;
+    border-radius: 50%;
+}
+
+@mixin  edit {
+    padding: 0 12% 30px 12%;
+
+    h1 {
+        text-align: center;
+    }
+
+    .msg {
+        text-align: right;
+        font-size: 12px;
+        color: $textLighterColor;
+    }
+}
+
+@mixin user-info {
+    display: flex;
+    align-items: center;
+    padding: 30px 0;
+    border-bottom: 1px solid #ebebeb;
+}
