@@ -3,7 +3,8 @@
 ## 简介
 
 > 在线地址：[https://tibby1998.github.io/vue-sharing-blog/](https://tibby1998.github.io/vue-sharing-blog/)
-项目来源：[https://xiedaimala.com/courses/d6825a79-25e3-446b-b1c0-556cd4e77a41#/common](https://xiedaimala.com/courses/d6825a79-25e3-446b-b1c0-556cd4e77a41#/common)
+>
+> 项目来源：[https://xiedaimala.com/courses/d6825a79-25e3-446b-b1c0-556cd4e77a41#/common](https://xiedaimala.com/courses/d6825a79-25e3-446b-b1c0-556cd4e77a41#/common)
 
 **vue-sharing-blog** 是一个多人博客系统，虽然结构简单，但对于“复健”选手来说也是一个不错的练手demo了，自己也在此基础上进行更改，将它的grid布局改成了flex布局，对一些代码逻辑也自己敲过了一遍，也很深刻地理解了一些设计巧妙之处，未来的学习生涯中一定会积极学习这些优秀的设计，努力让自己变得更强~~（秃）~~
 
